@@ -1,0 +1,14 @@
+*~
+*.swp
+
+*.exe
+*.log
+*.pyc
+*.o
+
+bin/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
