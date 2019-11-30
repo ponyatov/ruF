@@ -1,5 +1,5 @@
 # ruF
-## Русский Форт
+## Русский объектный Форт : `metaL`
 
 github: https://github.com/ponyatov/ruF
 

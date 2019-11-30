@@ -12,3 +12,5 @@ lib/
 lib64
 share/
 pyvenv.cfg
+
+wiki/
